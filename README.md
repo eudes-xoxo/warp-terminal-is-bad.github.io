@@ -35,6 +35,14 @@ Nonfree terminal emulators undermine computing freedom and shrink the pool of co
 
 This is not a personal attack, but please stop. If you made this proprietary for profit, remember [you can charge as much as you wish for free software.](https://www.gnu.org/philosophy/selling.html)
 
+## Alternatives
+
+- [Alacritty](https://github.com/alacritty/alacritty)
+- [Wave](https://github.com/wavetermdev/waveterm) (similar to Warp Terminal, but open-source.)
+- [Windows Terminal & conhost.exe](https://github.com/microsoft/terminal)
+- [Kitty](https://github.com/kovidgoyal/kitty)
+- [WezTerm](https://github.com/wez/wezterm)
+
 ---
 
 © 2025 **warp-terminal-is-bad.github.io** contributors. This repository is licensed under the [GPL-3.0](./LICENSE).
