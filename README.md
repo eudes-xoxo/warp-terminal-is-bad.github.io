@@ -24,7 +24,7 @@ Warp Terminal is built with Electron, the worst possible framework for a termina
 
 ## Why is this a problem?
 
-Warp Terminal is not good for the future of computing. If this is the future of terminal emulators, the future of computing is not good.
+What's the point of having a terminal emulator if it's nonfree? If more terminal emulators continue to be nonfree, it will not be good for the future of terminal emulators.
 
 ## A message to the Warp Terminal team.
 
