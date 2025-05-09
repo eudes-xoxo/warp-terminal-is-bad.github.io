@@ -19,7 +19,7 @@ Warp Terminal is proprietary software. You cannot modify it to your needs, neith
 
 This is a step backward in terminal emulation. Many former closed-source terminal emulators like [conhost.exe have been open-sourced](https://github.com/microsoft/terminal), yet Warp Terminal remains proprietary.
 
-Even with the Warp Terminal team considering open sourcing parts of the code, that would still not be the full code, which makes Warp Terminal remain nonfree.
+Even with the Warp Terminal team considering [open sourcing parts of the code](https://github.com/warpdotdev/Warp?tab=readme-ov-file#open-source--contributing), that would still not be the full code, which makes Warp Terminal remain nonfree.
 
 ## ~~Your terminal shouldn't be a web app.~~
 
@@ -33,7 +33,7 @@ Nonfree terminal emulators undermine computing freedom and shrink the pool of co
 
 ## A message to the Warp Terminal team.
 
-This is not a personal attack, but please stop. If you made this proprietary for profit, remember you can charge as much as you wish for free software.
+This is not a personal attack, but please stop. If you made this proprietary for profit, remember [you can charge as much as you wish for free software.](https://www.gnu.org/philosophy/selling.html)
 
 ---
 
