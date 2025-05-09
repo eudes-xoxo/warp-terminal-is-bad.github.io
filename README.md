@@ -28,7 +28,7 @@ Even with the Warp Terminal team considering open sourcing parts of the code, th
 
 ## Why is this a problem?
 
-What's the point of having a terminal emulator if it's nonfree? If more terminal emulators continue to be nonfree, it will not be good for the future of terminal emulators.
+Nonfree terminal emulators undermine computing freedom and shrink the pool of community-driven alternatives.
 
 ## A message to the Warp Terminal team.
 
