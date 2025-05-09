@@ -15,7 +15,7 @@
 
 Your terminal is the most important part of your personal Operating System. You should be able to have the freedom to modify it, redistribute it, and look at the source code.
 
-Warp Terminal is proprietary software, it is closed-source. You cannot modify it to your needs, neither can you redistribute it.
+Warp Terminal is proprietary software. You cannot modify it to your needs, neither can you redistribute it.
 
 This is a step backward in terminal emulation. Many former closed-source terminal emulators like [conhost.exe have been open-sourced](https://github.com/microsoft/terminal), yet Warp Terminal remains proprietary.
 
@@ -34,8 +34,6 @@ Nonfree terminal emulators undermine computing freedom and shrink the pool of co
 ## A message to the Warp Terminal team.
 
 This is not a personal attack, but please stop. If you made this proprietary for profit, remember you can charge as much as you wish for free software.
-
-~~Even if this does become free software, my point still remains. Electron is too slow and bloated for a terminal emulator, and this is not good for the future of computing.~~
 
 ---
 
