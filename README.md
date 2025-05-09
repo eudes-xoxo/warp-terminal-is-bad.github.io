@@ -2,10 +2,11 @@
 
 <details>
 <summary>Table of Contents</summary>
+<ul>
 <li> <a href="#your-terminal-shouldnt-be-nonfree">Your terminal shouldn't be nonfree</a> </li>
-<li> <a href="#your-terminal-shouldnt-be-a-web-app">Your terminal shouldn't be a web app</a> </li>
 <li> <a href="#why-is-this-a-problem">Why is this a problem?</a> </li>
 <li> <a href="#a-message-to-the-warp-terminal-team">A message to the Warp Terminal team.</a> </li>
+</ul>
 </details>
 
 ---
