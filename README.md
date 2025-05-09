@@ -18,9 +18,11 @@ Warp Terminal is proprietary software, it is closed-source. You cannot modify it
 
 This is a devolution in terminal emulation. Many former closed-source terminal emulators like conhost.exe have been open-sourced, yet Warp Terminal remains proprietary.
 
-## Your terminal shouldn't be a web app.
+## ~~Your terminal shouldn't be a web app.~~
 
-Warp Terminal is built with Electron, the worst possible framework for a terminal emulator. It is slow, it is bloated, and it is not designed for the task. There are multiple other things that Electron is actually suited for, and this is not one of them.
+~~Warp Terminal is built with Electron, the worst possible framework for a terminal emulator. It is slow, it is bloated, and it is not designed for the task. There are multiple other things that Electron is actually suited for, and this is not one of them.~~
+
+I recently found that Warp Terminal is not built with Electron, but rather with Rust.
 
 ## Why is this a problem?
 
@@ -30,7 +32,7 @@ What's the point of having a terminal emulator if it's nonfree? If more terminal
 
 This is not a personal attack, but please stop. If you made this proprietary for profit, remember you can charge as much as you wish for free software.
 
-Even if this does become free software, my point still remains. Electron is too slow and bloated for a terminal emulator, and this is not good for the future of computing.
+~~Even if this does become free software, my point still remains. Electron is too slow and bloated for a terminal emulator, and this is not good for the future of computing.~~
 
 ---
 
