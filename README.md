@@ -12,7 +12,7 @@
 
 ## Your terminal shouldn't be nonfree.
 
-Your terminal is the most important part of your personal OS. You should be able to have the freedom to modify it, redistribute it, and look at the source code.
+Your terminal is the most important part of your personal Operating System. You should be able to have the freedom to modify it, redistribute it, and look at the source code.
 
 Warp Terminal is proprietary software, it is closed-source. You cannot modify it to your needs, neither can you redistribute it.
 
